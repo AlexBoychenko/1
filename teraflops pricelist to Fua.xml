@@ -690,5 +690,7 @@
             <height unit="см">10</height>
             <weight unit="кг">2</weight>
         </item>
+		<item>
+		</item>
     </items>
 </price>
