@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<price>
+    <currencies>
+        <currency id="USD" rate="8.2"/>
+    </currencies>
+    <categories>
+        <category id="94">Видеокарты</category>
+    </categories>
+    <items>
+        <item>
+            <categoryId>94</categoryId>
+            <art>DUAL-RX580-O8G</art>
+            <vendor>Asus</vendor>
+            <name>RX 580 8GB Asus Dual</name>
+            <price>11950</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>1</amount>
+            <image>https://images.ua.prom.st/3063564103_w910_h430_videokarta-rx-580.jpg</image>         
+            <warranty official="false">1</warranty>                       
+            <param name="Шина">256</param>
+            <param name="Объем памяти">8ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">8000</param>
+            <param name="Тип памяти">GGDR5</param>
+            <param name="Разъемы">2 x HDMI;2 х DisplayPort</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>     
+        <item>
+            <categoryId>94</categoryId>
+            <art>GV-RX570GAMING-8GD</art>
+            <vendor>Gigabyte</vendor>
+            <name>RX 570 8GB Gigabyte</name>
+            <price>11200</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>1</amount>
+            <image>https://images.ua.prom.st/3216101861_w910_h430_videokarta-rx-570.jpg</image>         
+            <warranty official="false">1</warranty>                       
+            <param name="Шина">256</param>
+            <param name="Объем памяти">8ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">7000</param>
+            <param name="Тип памяти">GGDR5</param>
+            <param name="Разъемы">1 x HDMI;3 х DisplayPort</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>   
+   		<item>
+            <categoryId>94</categoryId>           
+            <vendor>MSI</vendor>
+            <name>RX 570 4GB MSI Armor</name>
+            <price>5790</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>1</amount>
+            <image>https://images.ua.prom.st/2913429827_w910_h430_videokarta-rx-570.jpg</image>         
+            <warranty official="false">3</warranty>                       
+            <param name="Шина">256</param>
+            <param name="Объем памяти">4ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">7000</param>
+            <param name="Тип памяти">GGDR5</param>
+            <param name="Разъемы">1 x HDMI;3 х DisplayPort</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item> 
+		    <item>
+            <categoryId>94</categoryId>
+            <art>RX480-8G</art>
+            <vendor>Asus</vendor>
+            <name>RX 480 8GB Asus Turbo</name>
+            <price>10650</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>2</amount>
+            <image>https://images.ua.prom.st/3156932674_w910_h430_videokarta-rx-480.jpg</image>         
+            <warranty official="false">1</warranty>                       
+            <param name="Шина">256</param>
+            <param name="Объем памяти">8ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">8000</param>
+            <param name="Тип памяти">GGDR5</param>
+            <param name="Разъемы">1 x HDMI;3 х DisplayPort</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+	    <item>
+            <categoryId>94</categoryId>
+            <art>11256-02-20G</art>
+            <vendor>Sapphire</vendor>
+            <name>RX 470 8GB Sapphire Nitro+</name>
+            <price>10950</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>1</amount>
+            <image>https://images.ua.prom.st/3216167627_w910_h430_videokarta-rx-470.jpg</image>         
+            <warranty official="false">1</warranty>                       
+            <param name="Шина">256</param>
+            <param name="Объем памяти">8ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">8000</param>
+            <param name="Тип памяти">GGDR5</param>
+            <param name="Разъемы">2 x HDMI;2 х DisplayPort</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>94</categoryId>
+            <art>11256-10</art>
+            <vendor>Sapphire</vendor>
+            <name>RX 470 8GB Sapphire Nitro</name>
+            <price>5000</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>3</amount>
+            <image>https://images.ua.prom.st/3216174625_w910_h430_videokarta-rx-470.jpg</image>         
+            <warranty official="false">3</warranty>                       
+            <param name="Шина">256</param>
+            <param name="Объем памяти">4ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">7000</param>
+            <param name="Тип памяти">GGDR5</param>
+            <param name="Разъемы">2 x HDMI;2 х DisplayPort</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>94</categoryId>
+            <art>11256-01</art>
+            <vendor>Sapphire</vendor>
+            <name>RX 470 8GB Sapphire Nitro+</name>
+            <price>5550</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>1</amount>
+            <image>https://images.ua.prom.st/3156937205_w910_h430_videokarta-rx-470.jpg</image>         
+            <warranty official="false">3</warranty>                       
+            <param name="Шина">256</param>
+            <param name="Объем памяти">4ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">7000</param>
+            <param name="Тип памяти">GGDR5</param>
+            <param name="Разъемы">2 x HDMI;2 х DisplayPort</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>94</categoryId>
+            <art>21227-00</art>
+            <vendor>Sapphire</vendor>
+            <name>R9 290 4GB Sapphire Battlefield 4</name>
+            <price>3590</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>1</amount>
+            <image>https://images.ua.prom.st/3216197575_w910_h430_videokarta-r9-290.jpg</image>         
+            <warranty official="false">3</warranty>                       
+            <param name="Шина">512</param>
+            <param name="Объем памяти">4ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">5000</param>
+            <param name="Тип памяти">GGDR5</param>
+            <param name="Разъемы">1 x HDMI;1 х DisplayPort</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>94</categoryId>
+            <art>ZT-M10400A-10B</art>
+            <vendor>ZOTAC</vendor>
+            <name>P104-100 8GB ZOTAC</name>
+            <price>13950</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>1</amount>
+            <image>https://images.ua.prom.st/3196819341_w910_h430_videokarta-p104-100-8gb.jpg</image>         
+            <warranty official="false">1</warranty>                       
+            <param name="Шина">256</param>
+            <param name="Объем памяти">8ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">10000</param>
+            <param name="Тип памяти">GGDR5X</param>
+            <param name="Разъемы">0</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>94</categoryId>
+            <art>C108T3-1SDN-Q6MNX</art>
+            <vendor>Inno3D</vendor>
+            <name>GTX 1080 Ti 11GB Inno3D iChill X3</name>
+            <price>18950</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>1</amount>
+            <image>https://images.ua.prom.st/3196817136_w910_h430_videokarta-gtx-1080.jpg</image>         
+            <warranty official="false">1</warranty>                       
+            <param name="Шина">352</param>
+            <param name="Объем памяти">11ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">11400</param>
+            <param name="Тип памяти">GGDR5X</param>
+            <param name="Разъемы">1 x HDMI;3 х DisplayPort</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>94</categoryId>
+            <art>ROG-STRIX-GTX1080TI-11G-GAMING</art>
+            <vendor>Asus</vendor>
+            <name>GTX 1080 Ti 11GB Asus Rog Strix Gaming</name>
+            <price>19750</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>1</amount>
+            <image>https://images.ua.prom.st/3156952201_w910_h430_videokarta-gtx-1080.jpg</image>         
+            <warranty official="false">1</warranty>                       
+            <param name="Шина">352</param>
+            <param name="Объем памяти">11ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">11000</param>
+            <param name="Тип памяти">GGDR5X</param>
+            <param name="Разъемы">2 x HDMI;2 х DisplayPort</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>94</categoryId>
+            <art>GTX-1080-8GB-MSI-ARMOR</art>
+            <vendor>MSI</vendor>
+            <name>GTX 1080 8GB Msi Armor</name>
+            <price>15950</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>1</amount>
+            <image>https://images.ua.prom.st/3128039796_w910_h430_videokarta-gtx-1080.jpg</image>         
+            <warranty official="false">1</warranty>                       
+            <param name="Шина">256</param>
+            <param name="Объем памяти">8ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">10000</param>
+            <param name="Тип памяти">GGDR5X</param>
+            <param name="Разъемы">1 x HDMI;3 х DisplayPort</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>94</categoryId>
+            <art>VCGGTX1070T8PB-CG</art>
+            <vendor>PNY</vendor>
+            <name>GTX 1070 Ti PNY Turbo Blower</name>
+            <price>13750</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>2</amount>
+            <image>https://images.ua.prom.st/3126296723_w910_h430_videokarta-gtx-1070.jpg</image>         
+            <warranty official="false">1</warranty>                       
+            <param name="Шина">256</param>
+            <param name="Объем памяти">8ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">8000</param>
+            <param name="Тип памяти">GGDR5</param>
+            <param name="Разъемы">1 x HDMI;3 х DisplayPort</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>94</categoryId>
+            <art>ROG-STRIX-GTX1070TI-8G-GAMING</art>
+            <vendor>Asus</vendor>
+            <name>GTX 1070 Ti 8GB ASUS ROG STRIX GAMING</name>
+            <price>14050</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>1</amount>
+            <image>https://images.ua.prom.st/3197068367_w910_h430_videokarta-gtx-1070.jpg</image>         
+            <warranty official="false">1</warranty>                       
+            <param name="Шина">256</param>
+            <param name="Объем памяти">8ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">8000</param>
+            <param name="Тип памяти">GGDR5</param>
+            <param name="Разъемы">2 x HDMI;2 х DisplayPort</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>94</categoryId>
+            <art>ROG-STRIX-GTX1070TI-8G-GAMING</art>
+            <vendor>ZOTAC</vendor>
+            <name>GTX 1070 8GB Zotac X-Gaming</name>
+            <price>12500</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>1</amount>
+            <image>https://images.ua.prom.st/3193620805_w910_h430_videokarta-gtx-1070.jpg</image>         
+            <warranty official="false">1</warranty>                       
+            <param name="Шина">256</param>
+            <param name="Объем памяти">8ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">8000</param>
+            <param name="Тип памяти">GGDR5</param>
+            <param name="Разъемы">2 x HDMI;2 х DisplayPort</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>94</categoryId>
+            <art>GTX-1070-8GB-MSI-ARMOR</art>
+            <vendor>MSI</vendor>
+            <name>GTX 1070 8GB Msi Armor</name>
+            <price>12300</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>1</amount>
+            <image>https://images.ua.prom.st/3216242501_w910_h430_videokarta-gtx-1070.jpg</image>         
+            <warranty official="false">1</warranty>                       
+            <param name="Шина">256</param>
+            <param name="Объем памяти">8ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">8000</param>
+            <param name="Тип памяти">GGDR5</param>
+            <param name="Разъемы">1 x HDMI;3 х DisplayPort</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>94</categoryId>
+            <art>ROG-STRIX-GTX1070-O8G-GAMING</art>
+            <vendor>ASUS</vendor>
+            <name>GTX 1070 8GB Asus Rog Strix Gaming</name>
+            <price>12700</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>2</amount>
+            <image>https://images.ua.prom.st/3216242501_w910_h430_videokarta-gtx-1070.jpg</image>         
+            <warranty official="false">1</warranty>                       
+            <param name="Шина">256</param>
+            <param name="Объем памяти">8ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">8000</param>
+            <param name="Тип памяти">GGDR5</param>
+            <param name="Разъемы">2 x HDMI;2 х DisplayPort</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>94</categoryId>
+            <art>GTX-1060-6GB-MSI-ARMOR</art>
+            <vendor>MSI</vendor>
+            <name>GTX 1060 6GB MSI Armorg</name>
+            <price>8500</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>1</amount>
+            <image>https://images.ua.prom.st/3216252882_w910_h430_videokarta-gtx-1060.jpg</image>         
+            <warranty official="false">1</warranty>                       
+            <param name="Шина">192</param>
+            <param name="Объем памяти">6ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">8000</param>
+            <param name="Тип памяти">GGDR5</param>
+            <param name="Разъемы">1 x HDMI;3 х DisplayPort</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>94</categoryId>
+            <art>ROG-STRIX-GTX1060-6G-GAMING</art>
+            <vendor>Asus</vendor>
+            <name>GTX 1060 6GB Asus Rog Strix Gaming</name>
+            <price>8950</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>6</amount>
+            <image>https://images.ua.prom.st/3216258767_w910_h430_videokarta-gtx-1060.jpg</image>         
+            <warranty official="false">1</warranty>                       
+            <param name="Шина">192</param>
+            <param name="Объем памяти">6ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">8000</param>
+            <param name="Тип памяти">GGDR5</param>
+            <param name="Разъемы">2 x HDMI;2 х DisplayPort</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>94</categoryId>
+            <art>DUAL-GTX1060-6G</art>
+            <vendor>Asus</vendor>
+            <name>GTX 1060 6GB Asus Dual</name>
+            <price>8700</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>2</amount>
+            <image>https://images.ua.prom.st/3216267165_w910_h430_videokarta-gtx-1060.jpg</image>         
+            <warranty official="false">1</warranty>                       
+            <param name="Шина">192</param>
+            <param name="Объем памяти">6ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">8000</param>
+            <param name="Тип памяти">GGDR5</param>
+            <param name="Разъемы">2 x HDMI;2 х DisplayPort</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>94</categoryId>
+            <art>N106F-2SDN-L5GS</art>
+            <vendor>Inno3D</vendor>
+            <name>GTX 1060 3GB Inno3D X2</name>
+            <price>5500</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>1</amount>
+            <image>https://images.ua.prom.st/3216271431_w910_h430_videokarta-gtx-1060.jpg</image>         
+            <warranty official="false">3</warranty>                       
+            <param name="Шина">192</param>
+            <param name="Объем памяти">3ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">8000</param>
+            <param name="Тип памяти">GGDR5</param>
+            <param name="Разъемы">1 x HDMI;3 х DisplayPort</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>94</categoryId>
+            <art>GV-N1060G1-GAMING-3GD</art>
+            <vendor>Gigabyte</vendor>
+            <name>GTX 1060 3GB Gigabyte G1 Gaming</name>
+            <price>5700</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>1</amount>
+            <image>https://images.ua.prom.st/3063688230_w910_h430_videokarta-gtx-1060.jpg</image>         
+            <warranty official="false">3</warranty>                       
+            <param name="Шина">192</param>
+            <param name="Объем памяти">3ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">8000</param>
+            <param name="Тип памяти">GGDR5</param>
+            <param name="Разъемы">1 x HDMI;3 х DisplayPort</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>94</categoryId>
+            <art>STRIX-GTX1050TI-04G-GAMING</art>
+            <vendor>Asus</vendor>
+            <name>GTX 1050 Ti 4GB Asus Rog Strix Gaming</name>
+            <price>5400</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>1</amount>
+            <image>https://images.ua.prom.st/3026357285_w910_h430_videokarta-gtx-1050.jpg</image>         
+            <warranty official="false">3</warranty>                       
+            <param name="Шина">128</param>
+            <param name="Объем памяти">4ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">7000</param>
+            <param name="Тип памяти">GGDR5</param>
+            <param name="Разъемы">1 x HDMI;1 х DisplayPort</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>94</categoryId>
+            <art>GV-N740D5OC-1GI</art>
+            <vendor>Gigabyte</vendor>
+            <name>GT 740 1GB Gigabyte</name>
+            <price>1150</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>12</amount>
+            <image>https://images.ua.prom.st/3216308458_w910_h430_videokarta-gt-740.jpg</image>         
+            <warranty official="false">3</warranty>                       
+            <param name="Шина">128</param>
+            <param name="Объем памяти">2ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">5400</param>
+            <param name="Тип памяти">GGDR5</param>
+            <param name="Разъемы">1 x HDMI</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>94</categoryId>
+            <art>ROG-STRIX-RTX2070-O8G-GAMING</art>
+            <vendor>Asus</vendor>
+            <name>RTX 2070 8GB Asus Rog Strix Gaming</name>
+            <price>21500</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>1</amount>
+            <image>https://images.ua.prom.st/3216302711_w910_h430_videokarta-rtx-2070.jpg</image>         
+            <warranty official="false">1</warranty>                       
+            <param name="Шина">256</param>
+            <param name="Объем памяти">8ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">14000</param>
+            <param name="Тип памяти">GDDR6</param>
+            <param name="Разъемы">1 x HDMI;2 х DisplayPort</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>94</categoryId>
+            <art>GTX650TI-2GD5</art>
+            <vendor>Asus</vendor>
+            <name>GTX 650 TI 2GB Asus</name>
+            <price>2350</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>1</amount>
+            <image>https://images.ua.prom.st/3204613685_w910_h430_videokarta-gtx-650.jpg</image>         
+            <warranty official="false">3</warranty>                       
+            <param name="Шина">128</param>
+            <param name="Объем памяти">2ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">5400</param>
+            <param name="Тип памяти">GDDR5</param>
+            <param name="Разъемы">1 x HDMI</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+    </items>
+	<item>
+            <categoryId>94</categoryId>
+            <art>N650-1GD5</art>
+            <vendor>MSI</vendor>
+            <name>GTX 650 Ti 1GB Msi</name>
+            <price>1750</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>1</amount>
+            <image>https://images.ua.prom.st/3191464426_w910_h430_videokarta-gtx-650.jpg</image>         
+            <warranty official="false">3</warranty>                       
+            <param name="Шина">128</param>
+            <param name="Объем памяти">1ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">5400</param>
+            <param name="Тип памяти">GDDR5</param>
+            <param name="Разъемы">1 x miniHDMI</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>94</categoryId>
+            <art>GTX650TI-PH-1GD5</art>
+            <vendor>Asus</vendor>
+            <name>GTX 650 Ti 1GB Asus</name>
+            <price>1750</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>1</amount>
+            <image>https://images.ua.prom.st/3216361736_w910_h430_videokarta-gtx-650.jpg</image>         
+            <warranty official="false">3</warranty>                       
+            <param name="Шина">128</param>
+            <param name="Объем памяти">1ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">5000</param>
+            <param name="Тип памяти">GDDR5</param>
+            <param name="Разъемы">1 x HDMI</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>94</categoryId>
+            <art>GTX650-E-1GD5</art>
+            <vendor>Asus</vendor>
+            <name>GTX 650 1GB Asus</name>
+            <price>1800</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>1</amount>
+            <image>https://images.ua.prom.st/3216361736_w910_h430_videokarta-gtx-650.jpg</image>         
+            <warranty official="false">3</warranty>                       
+            <param name="Шина">128</param>
+            <param name="Объем памяти">1ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">5000</param>
+            <param name="Тип памяти">GDDR5</param>
+            <param name="Разъемы">1 x HDMI</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>94</categoryId>
+            <art>PH-GTX1660S-6G</art>
+            <vendor>Asus</vendor>
+            <name>GTX 1660 Super 6GB Asus Phoenix</name>
+            <price>14450</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>1</amount>
+            <image>https://images.ua.prom.st/3216372560_w910_h430_videokarta-gtx-1660.jpg</image>         
+            <warranty official="false">1</warranty>                       
+            <param name="Шина">192</param>
+            <param name="Объем памяти">6ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">14000</param>
+            <param name="Тип памяти">GDDR6</param>
+            <param name="Разъемы">1 x HDMI;1 х DisplayPort</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>94</categoryId>
+            <art>GTX-1660-6GB-MSI-ARMOR</art>
+            <vendor>MSI</vendor>
+            <name>GTX 1660 6GB MSI Armor</name>
+            <price>12500</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>1</amount>
+            <image>https://images.ua.prom.st/3212327530_w910_h430_videokarta-gtx-1660.jpg</image>         
+            <warranty official="false">1</warranty>                       
+            <param name="Шина">192</param>
+            <param name="Объем памяти">6ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">8000</param>
+            <param name="Тип памяти">GDDR5</param>
+            <param name="Разъемы">1 x HDMI;3 х DisplayPort</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+    </items>
+</price>
