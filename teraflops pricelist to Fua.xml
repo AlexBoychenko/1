@@ -4,11 +4,11 @@
         <currency id="USD" rate="8.2"/>
     </currencies>
     <categories>
-        <category id="94">Видеокарты</category>
+        <category id="1">Видеокарты</category>
     </categories>
     <items>
         <item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>DUAL-RX580-O8G</art>
             <vendor>Asus</vendor>
             <name>RX 580 8GB Asus Dual</name>
@@ -30,7 +30,7 @@
             <weight unit="кг">2</weight>
         </item>     
         <item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>GV-RX570GAMING-8GD</art>
             <vendor>Gigabyte</vendor>
             <name>RX 570 8GB Gigabyte</name>
@@ -52,7 +52,8 @@
             <weight unit="кг">2</weight>
         </item>   
    		<item>
-            <categoryId>94</categoryId>           
+            <categoryId>1</categoryId>
+            <art>MSI-RX-570-ARMOR</art>			
             <vendor>MSI</vendor>
             <name>RX 570 4GB MSI Armor</name>
             <price>5790</price>
@@ -73,7 +74,7 @@
             <weight unit="кг">2</weight>
         </item> 
 		    <item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>RX480-8G</art>
             <vendor>Asus</vendor>
             <name>RX 480 8GB Asus Turbo</name>
@@ -95,7 +96,7 @@
             <weight unit="кг">2</weight>
         </item>
 	    <item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>11256-02-20G</art>
             <vendor>Sapphire</vendor>
             <name>RX 470 8GB Sapphire Nitro+</name>
@@ -117,7 +118,7 @@
             <weight unit="кг">2</weight>
         </item>
 		<item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>11256-10</art>
             <vendor>Sapphire</vendor>
             <name>RX 470 8GB Sapphire Nitro</name>
@@ -139,10 +140,10 @@
             <weight unit="кг">2</weight>
         </item>
 		<item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>11256-01</art>
             <vendor>Sapphire</vendor>
-            <name>RX 470 8GB Sapphire Nitro+</name>
+            <name>RX 470 4GB Sapphire Nitro+</name>
             <price>5550</price>
             <priceCurrency>UAH</priceCurrency>
             <amount>1</amount>
@@ -161,7 +162,7 @@
             <weight unit="кг">2</weight>
         </item>
 		<item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>21227-00</art>
             <vendor>Sapphire</vendor>
             <name>R9 290 4GB Sapphire Battlefield 4</name>
@@ -183,7 +184,7 @@
             <weight unit="кг">2</weight>
         </item>
 		<item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>ZT-M10400A-10B</art>
             <vendor>ZOTAC</vendor>
             <name>P104-100 8GB ZOTAC</name>
@@ -205,7 +206,7 @@
             <weight unit="кг">2</weight>
         </item>
 		<item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>C108T3-1SDN-Q6MNX</art>
             <vendor>Inno3D</vendor>
             <name>GTX 1080 Ti 11GB Inno3D iChill X3</name>
@@ -227,7 +228,7 @@
             <weight unit="кг">2</weight>
         </item>
 		<item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>ROG-STRIX-GTX1080TI-11G-GAMING</art>
             <vendor>Asus</vendor>
             <name>GTX 1080 Ti 11GB Asus Rog Strix Gaming</name>
@@ -249,7 +250,7 @@
             <weight unit="кг">2</weight>
         </item>
 		<item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>GTX-1080-8GB-MSI-ARMOR</art>
             <vendor>MSI</vendor>
             <name>GTX 1080 8GB Msi Armor</name>
@@ -271,7 +272,7 @@
             <weight unit="кг">2</weight>
         </item>
 		<item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>VCGGTX1070T8PB-CG</art>
             <vendor>PNY</vendor>
             <name>GTX 1070 Ti PNY Turbo Blower</name>
@@ -293,7 +294,7 @@
             <weight unit="кг">2</weight>
         </item>
 		<item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>ROG-STRIX-GTX1070TI-8G-GAMING</art>
             <vendor>Asus</vendor>
             <name>GTX 1070 Ti 8GB ASUS ROG STRIX GAMING</name>
@@ -315,8 +316,8 @@
             <weight unit="кг">2</weight>
         </item>
 		<item>
-            <categoryId>94</categoryId>
-            <art>ROG-STRIX-GTX1070TI-8G-GAMING</art>
+            <categoryId>1</categoryId>
+            <art>ZT-P10700I-10P</art>
             <vendor>ZOTAC</vendor>
             <name>GTX 1070 8GB Zotac X-Gaming</name>
             <price>12500</price>
@@ -337,7 +338,7 @@
             <weight unit="кг">2</weight>
         </item>
 		<item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>GTX-1070-8GB-MSI-ARMOR</art>
             <vendor>MSI</vendor>
             <name>GTX 1070 8GB Msi Armor</name>
@@ -359,7 +360,7 @@
             <weight unit="кг">2</weight>
         </item>
 		<item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>ROG-STRIX-GTX1070-O8G-GAMING</art>
             <vendor>ASUS</vendor>
             <name>GTX 1070 8GB Asus Rog Strix Gaming</name>
@@ -381,7 +382,7 @@
             <weight unit="кг">2</weight>
         </item>
 		<item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>GTX-1060-6GB-MSI-ARMOR</art>
             <vendor>MSI</vendor>
             <name>GTX 1060 6GB MSI Armorg</name>
@@ -403,7 +404,7 @@
             <weight unit="кг">2</weight>
         </item>
 		<item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>ROG-STRIX-GTX1060-6G-GAMING</art>
             <vendor>Asus</vendor>
             <name>GTX 1060 6GB Asus Rog Strix Gaming</name>
@@ -425,7 +426,7 @@
             <weight unit="кг">2</weight>
         </item>
 		<item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>DUAL-GTX1060-6G</art>
             <vendor>Asus</vendor>
             <name>GTX 1060 6GB Asus Dual</name>
@@ -447,7 +448,7 @@
             <weight unit="кг">2</weight>
         </item>
 		<item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>N106F-2SDN-L5GS</art>
             <vendor>Inno3D</vendor>
             <name>GTX 1060 3GB Inno3D X2</name>
@@ -469,7 +470,7 @@
             <weight unit="кг">2</weight>
         </item>
 		<item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>GV-N1060G1-GAMING-3GD</art>
             <vendor>Gigabyte</vendor>
             <name>GTX 1060 3GB Gigabyte G1 Gaming</name>
@@ -491,7 +492,7 @@
             <weight unit="кг">2</weight>
         </item>
 		<item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>STRIX-GTX1050TI-04G-GAMING</art>
             <vendor>Asus</vendor>
             <name>GTX 1050 Ti 4GB Asus Rog Strix Gaming</name>
@@ -513,7 +514,7 @@
             <weight unit="кг">2</weight>
         </item>
 		<item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>GV-N740D5OC-1GI</art>
             <vendor>Gigabyte</vendor>
             <name>GT 740 1GB Gigabyte</name>
@@ -535,7 +536,7 @@
             <weight unit="кг">2</weight>
         </item>
 		<item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>ROG-STRIX-RTX2070-O8G-GAMING</art>
             <vendor>Asus</vendor>
             <name>RTX 2070 8GB Asus Rog Strix Gaming</name>
@@ -557,7 +558,7 @@
             <weight unit="кг">2</weight>
         </item>
 		<item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>GTX650TI-2GD5</art>
             <vendor>Asus</vendor>
             <name>GTX 650 TI 2GB Asus</name>
@@ -580,7 +581,7 @@
         </item>
     </items>
 	<item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>N650-1GD5</art>
             <vendor>MSI</vendor>
             <name>GTX 650 Ti 1GB Msi</name>
@@ -602,7 +603,7 @@
             <weight unit="кг">2</weight>
         </item>
 		<item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>GTX650TI-PH-1GD5</art>
             <vendor>Asus</vendor>
             <name>GTX 650 Ti 1GB Asus</name>
@@ -624,7 +625,7 @@
             <weight unit="кг">2</weight>
         </item>
 		<item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>GTX650-E-1GD5</art>
             <vendor>Asus</vendor>
             <name>GTX 650 1GB Asus</name>
@@ -646,7 +647,7 @@
             <weight unit="кг">2</weight>
         </item>
 		<item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>PH-GTX1660S-6G</art>
             <vendor>Asus</vendor>
             <name>GTX 1660 Super 6GB Asus Phoenix</name>
@@ -668,7 +669,7 @@
             <weight unit="кг">2</weight>
         </item>
 		<item>
-            <categoryId>94</categoryId>
+            <categoryId>1</categoryId>
             <art>GTX-1660-6GB-MSI-ARMOR</art>
             <vendor>MSI</vendor>
             <name>GTX 1660 6GB MSI Armor</name>
