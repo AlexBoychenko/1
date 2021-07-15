@@ -690,5 +690,27 @@
             <height unit="см">10</height>
             <weight unit="кг">2</weight>
         </item>
+		<item>
+            <categoryId>1</categoryId>
+            <art>GTX-1660-6GB-MSI</art>
+            <vendor>MSI</vendor>
+            <name>GTX 1660 6GB MSI</name>
+            <price>12500</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>1</amount>
+            <image>https://images.ua.prom.st/3212327530_w910_h430_videokarta-gtx-1660.jpg</image>         
+            <warranty official="false">1</warranty>                       
+            <param name="Шина">192</param>
+            <param name="Объем памяти">6ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">8000</param>
+            <param name="Тип памяти">GDDR6</param>
+            <param name="Разъемы">1 x HDMI;1 х DisplayPort</param>
+            <param name="Тип охлаждения">кулер</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
     </items>
 </price>
