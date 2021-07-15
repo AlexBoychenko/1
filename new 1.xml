@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<price>
+    <currencies>
+        <currency id="USD" rate="8.2"/>
+    </currencies>
+    <categories>
+        <category id="1">Газовые плиты</category>
+        <category id="2">Мобильные телефоны</category>
+    </categories>
+    <items>
+        <item>
+            <categoryId>2</categoryId>
+            <art>n456-5300em-2010</art>
+            <partnumber>2353456</partnumber>
+            <barcode>5025232699599</barcode>
+            <vendor>Nokia</vendor>
+            <name>5300 ExpressMusic</name>
+            <description>Дисплей: 320x320, TFT; Камера: 1.3 МП</description>
+            <price>1000</price>
+            <priceCurrency>UAH</priceCurrency>
+            <sale>1100</sale>
+            <saleCurrency>UAH</saleCurrency>
+            <old>1500</old>
+            <oldCurrency>UAH</oldCurrency>
+            <amount>5</amount>
+            <image>https://f.ua/statik/images/products/400/nokia/5300_expressmusic.jpg</image>
+            <extraimage>https://f.ua/statik/images/products/400/nokia/5300_expressmusic_0.jpg</extraimage>
+            <extraimage>https://f.ua/statik/images/products/400/nokia/5300_expressmusic_1.jpg</extraimage>
+            <country>Финляндия</country>
+            <countryCode>FI</countryCode>
+            <warranty official="true" note="Дополнительный год гарантии при регистрации на сайте">24</warranty>
+            <comment>Доставим для Вас из США!</comment>
+            <fulldescription><![CDATA[Телефон выполнен в форм-факторе слайдер, имеет экран с разрешением 240 на 320 точек и CMOS-камеру 1.3 МП. Сбоку имеется три кнопки управления плеером (включить плеер, следующая песня, предыдущая песня), при подключении наушников через разъем 2.5 мм появляется возможность прослушивания радио. Также есть разъем для карт памяти MicroSD до 2 ГБ и процессор на 237 Мгц.]]></fulldescription>
+            <param name="Стандарт">GSM 900; GSM 1800; GSM 1900</param>
+            <param name="Цвет">Черный</param>
+            <param name="Экран">240x320</param>
+            <param name="Процессор" unit="Мгц">237</param>
+            <param name="Цифровой zoom">2 - 8</param>
+            <file title="Инструкция">https://f.ua/statik/files/products/nokia/5300_manual.pdf</file>
+            <video title="Видеообзор" size="12345678" duration="120" width="1024" height="768">https://f.ua/statik/video/products/nokia/5300_black.mp4</video>
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта" note="Для наложенного платежа необходима предоплата">50</delivery>
+            <length unit="см">15</length>
+            <width unit="см">10</width>
+            <height unit="см">5</height>
+            <weight unit="кг">0.5</weight>
+        </item>
+        <item>
+            ...
+        </item>
+    </items>
+</price>
