@@ -471,13 +471,13 @@
         </item>
 		<item>
             <categoryId>1</categoryId>
-            <art>GV-N1060G1-GAMING-3GD</art>
+            <art>GV-N1060IXOC-3GD</art>
             <vendor>Gigabyte</vendor>
-            <name>GTX 1060 3GB Gigabyte G1 Gaming</name>
-            <price>5700</price>
+            <name>GTX 1060 3 GB GIGABYTE MINI ITX OC</name>
+            <price>5500</price>
             <priceCurrency>UAH</priceCurrency>
             <amount>1</amount>
-            <image>https://images.ua.prom.st/3063688230_w910_h430_videokarta-gtx-1060.jpg</image>         
+            <image>https://images.ua.prom.st/3072160913_w910_h430_videokarta-gigabyte-gtx.jpg</image>         
             <warranty official="false">3</warranty>                       
             <param name="Шина">192</param>
             <param name="Объем памяти">3ГБ</param>
@@ -557,30 +557,7 @@
             <height unit="см">10</height>
             <weight unit="кг">2</weight>
         </item>
-		<item>
-            <categoryId>1</categoryId>
-            <art>GTX650TI-2GD5</art>
-            <vendor>Asus</vendor>
-            <name>GTX 650 TI 2GB Asus</name>
-            <price>2350</price>
-            <priceCurrency>UAH</priceCurrency>
-            <amount>1</amount>
-            <image>https://images.ua.prom.st/3204613685_w910_h430_videokarta-gtx-650.jpg</image>         
-            <warranty official="false">3</warranty>                       
-            <param name="Шина">128</param>
-            <param name="Объем памяти">2ГБ</param>
-			<param name="Частота памяти"  unit="Мгц">5400</param>
-            <param name="Тип памяти">GDDR5</param>
-            <param name="Разъемы">1 x HDMI</param>
-            <param name="Тип охлаждения">кулер</param>          
-            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
-            <length unit="см">41</length>
-            <width unit="см">24</width>
-            <height unit="см">10</height>
-            <weight unit="кг">2</weight>
-        </item>
-    </items>
-	<item>
+	    <item>
             <categoryId>1</categoryId>
             <art>N650-1GD5</art>
             <vendor>MSI</vendor>
@@ -692,19 +669,19 @@
         </item>
 		<item>
             <categoryId>1</categoryId>
-            <art>GTX-1660-6GB-MSI</art>
-            <vendor>MSI</vendor>
-            <name>GTX 1660 6GB MSI</name>
-            <price>12500</price>
+            <art>STRIX-GTX1080-O8G-GAMING</art>
+            <vendor>Asus</vendor>
+            <name>GTX 1080 8GB ASUS ROG STRIX GAMING OC</name>
+            <price>15750</price>
             <priceCurrency>UAH</priceCurrency>
             <amount>1</amount>
-            <image>https://images.ua.prom.st/3212327530_w910_h430_videokarta-gtx-1660.jpg</image>         
+            <image>https://images.ua.prom.st/3225650496_w910_h430_videokarta-gtx-1080.jpg</image>         
             <warranty official="false">1</warranty>                       
-            <param name="Шина">192</param>
-            <param name="Объем памяти">6ГБ</param>
-			<param name="Частота памяти"  unit="Мгц">8000</param>
-            <param name="Тип памяти">GDDR6</param>
-            <param name="Разъемы">1 x HDMI;1 х DisplayPort</param>
+            <param name="Шина">256</param>
+            <param name="Объем памяти">8ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">10000</param>
+            <param name="Тип памяти">GDDR5X</param>
+            <param name="Разъемы">2 x HDMI;2 х DisplayPort</param>
             <param name="Тип охлаждения">кулер</param>          
             <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
             <length unit="см">41</length>
